@@ -8,4 +8,3 @@ Added:
 Modified:
 	- models/Tasks.php
 	- config/autoload.php
-	
